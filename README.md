@@ -134,6 +134,6 @@ MIT License
 
 ## 👤 Authors
 
-**Abdelrahman Tamer Dorry & Sama Adel**
+**Abdelrahman Tamer Dorry**
 AI Engineering Students — Galala University
 [LinkedIn](https://www.linkedin.com/in/abdelrahman-dorry) · [GitHub](https://github.com/atdorry)
